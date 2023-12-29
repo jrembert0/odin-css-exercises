@@ -1,0 +1,31 @@
+.odd{
+    background-color: #ff6699;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second{
+    color: #0000cc;
+    font-size: 36px;
+}
+.odd.third{
+    font-size: 24px;
+}
+
+#fourth{
+    background-color: #00ff00;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/*
+    SOLUTION FROM TOP
+    
+    .adjust-font-size {
+    font-size: 24px;
+    }
+    
+    The elements 'Number 3' and 'Number 4'
+    in the HTML file share the same font size, we reused
+    the 'adjust-font-size' class above to help reduce
+    duplicate code.
+*/
